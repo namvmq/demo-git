@@ -52,7 +52,7 @@
 
 ## git branch (liệt kê các branch hiện tại)
 
-## git switch -b <tên nhánh>
+## git switch -c <tên nhánh> (tạo nhánh và chuyển qua nhánh vừa được tạo)
 
 ## git checkout -b <tên nhánh>
 
