@@ -50,7 +50,11 @@
 
 ## git pull (dùng để lấy code mới nhất từ remote repository)
 
-## git branch
+## git branch (liệt kê các branch hiện tại)
+
+## git switch -b <tên nhánh>
+
+## git checkout -b <tên nhánh>
 
 ## git merge
 
